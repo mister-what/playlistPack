@@ -104,8 +104,8 @@ PlaylistModule.prototype.generate = function (asString) {
 
 module.exports = PlaylistModule;
 
-//var playlist = new PlaylistModule(null, "./moduledPlaylist.module.json");
+//var playlist = new PlaylistModule(null, "./example_modules/moduledPlaylist.module.json");
 //var playlist = new PlaylistModule("playlistWithTwoModules");
-//playlist.addTrack("track ab").addModule("./newPlaylist.module.json").addTrack("track cool").addTrack("cool track").addModule("./moduledPlaylist.module.json").addTrack("another cool track");
+//playlist.addTrack("track ab").addModule("./example_modules/newPlaylist.module.json").addTrack("track cool").addTrack("cool track").addModule("./example_modules/moduledPlaylist.module.json").addTrack("another cool track");
 //playlist.writeToDisk();
 //console.log(playlist.generate(true));
