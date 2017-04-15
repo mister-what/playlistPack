@@ -1,0 +1,25 @@
+{
+  "id": "playlistExample",
+  "name": "example playlist",
+  "tracks": {
+    "id_0000": {
+      "name": "hello",
+      "type": "track"
+    },
+    "id_0001": {
+      "name": "world",
+      "type": "track"
+    }
+  },
+  "modules": {
+    "other.module": {
+      "path": "./playlist.module",
+      "type": "module"
+    }
+  },
+  "tracklist": [
+    "id_0001",
+    "other.module",
+    "id_0000"
+  ]
+}

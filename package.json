@@ -1,0 +1,29 @@
+{
+  "name": "playlistpack",
+  "version": "1.0.0",
+  "description": "module based approach to controll and create playlists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://inapalm@github.com/mister-what/playlistPack.git"
+  },
+  "keywords": [
+    "playlist",
+    "modules",
+    "bundle",
+    "playlistPack",
+    "music"
+  ],
+  "author": "Jonas Winzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mister-what/playlistPack/issues"
+  },
+  "homepage": "https://github.com/mister-what/playlistPack#readme",
+  "dependencies": {
+    "shortid": "^2.2.8"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "newPlaylist",
+  "modules": {},
+  "tracks": {
+    "track_BJ3EbR10g": {
+      "name": "track1",
+      "type": "track"
+    },
+    "track_rJe2NZ0k0x": {
+      "name": "another track",
+      "type": "track"
+    },
+    "track_ryW3NZCJ0x": {
+      "name": "track2",
+      "type": "track"
+    }
+  },
+  "playlist": [
+    "track_BJ3EbR10g",
+    "track_rJe2NZ0k0x",
+    "track_ryW3NZCJ0x"
+  ],
+  "id": "module_newPlaylist_HJZB7NkgCe"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "moduledPlaylist",
+  "modules": {
+    "module_newPlaylist_BJZcctA1Cx": {
+      "name": "newPlaylist",
+      "path": "./newPlaylist.module.json"
+    }
+  },
+  "tracks": {
+    "track_SylccK01Al": {
+      "name": "trackXY",
+      "type": "track"
+    },
+    "track_rkz5qYAJAg": {
+      "name": "other track",
+      "type": "track"
+    },
+    "track_S1Xq9YCk0x": {
+      "name": "track_i",
+      "type": "track"
+    }
+  },
+  "playlist": [
+    "track_SylccK01Al",
+    "module_newPlaylist_BJZcctA1Cx",
+    "track_rkz5qYAJAg",
+    "track_S1Xq9YCk0x"
+  ],
+  "id": "module_moduledPlaylist_HJVBXN1e0g"
+}

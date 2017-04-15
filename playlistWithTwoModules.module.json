@@ -1,0 +1,40 @@
+{
+  "name": "playlistWithTwoModules",
+  "id": "module_playlistWithTwoModules_S1HXEJgRl",
+  "modules": {
+    "module_newPlaylist_HJZB7NkgCe": {
+      "name": "newPlaylist",
+      "path": "./newPlaylist.module.json"
+    },
+    "module_moduledPlaylist_HJVBXN1e0g": {
+      "name": "moduledPlaylist",
+      "path": "./moduledPlaylist.module.json"
+    }
+  },
+  "tracks": {
+    "track_BJgHQEyxRl": {
+      "name": "track ab",
+      "type": "track"
+    },
+    "track_HJzB7EJxAx": {
+      "name": "track cool",
+      "type": "track"
+    },
+    "track_B1XS74JeAg": {
+      "name": "cool track",
+      "type": "track"
+    },
+    "track_HyrB7VJgAx": {
+      "name": "another cool track",
+      "type": "track"
+    }
+  },
+  "playlist": [
+    "track_BJgHQEyxRl",
+    "module_newPlaylist_HJZB7NkgCe",
+    "track_HJzB7EJxAx",
+    "track_B1XS74JeAg",
+    "module_moduledPlaylist_HJVBXN1e0g",
+    "track_HyrB7VJgAx"
+  ]
+}
