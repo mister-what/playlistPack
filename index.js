@@ -7,14 +7,15 @@ var Rekordbox = require("./lib/rekordbox.db");
 
 var PlaylistModule = require("./lib/PlaylistModule");
 
-module.exports = PlaylistModule;
+module.exports.PlaylistModule = PlaylistModule;
+module.exports.Rekordbox = Rekordbox;
 
 //var playlist = new PlaylistModule(null, "./moduledPlaylist.module.json");
 //var playlist = new PlaylistModule("playlistWithTwoModules");
 //playlist.addTrack("track ab").addModule("./example_modules/newPlaylist.module.json").addTrack("track cool").addTrack("cool track").addModule("./example_modules/moduledPlaylist.module.json").addTrack("another cool track");
 //playlist.writeToDisk();
 //console.log(playlist.generate(true));
-
+/*
 var rekordbox_xml = new Rekordbox("/Users/jonaswinzen/Git/playlistPack/rekordbox.db.xml");
 rekordbox_xml.parseLibrary(function (err, rekordbox_obj) {
   if (err) {
@@ -29,3 +30,4 @@ rekordbox_xml.parseLibrary(function (err, rekordbox_obj) {
   //console.log(library["DJ_PLAYLISTS"]["COLLECTION"][0]["TRACK"]);
   //console.log(rekordbox_obj.tracks);
 });
+ */
