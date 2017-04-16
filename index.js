@@ -21,7 +21,10 @@ rekordbox_xml.parseLibrary(function (err, rekordbox_obj) {
     return console.error(err);
   }
   Object.keys(rekordbox_obj.playlistModules).forEach(function (moduleId) {
-    console.log(moduleId);
+    if (moduleId.indexOf("module") !== -1) {
+      console.log(moduleId);
+      rekordbox_obj.playlistModules[moduleId].writeToDisk("./rekordbox_modules/");
+    }
   });
   //console.log(library["DJ_PLAYLISTS"]["COLLECTION"][0]["TRACK"]);
   //console.log(rekordbox_obj.tracks);

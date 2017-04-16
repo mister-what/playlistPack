@@ -1,0 +1,695 @@
+{
+  "name": "modules.rolling.deep",
+  "id": "module_modules.rolling.deep_ryuRIIxAl",
+  "modules": {},
+  "tracks": {
+    "6322": {
+      "$": {
+        "TrackID": "6322",
+        "Name": "We Are Humans",
+        "Artist": "Ghost Rider & Kopel",
+        "Composer": "Or Kopel & Vladislav Krivoshein",
+        "Album": "Progressive & Psytrance Pieces, Vol. 14",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "15188099",
+        "TotalTime": "442",
+        "DiscNumber": "1",
+        "TrackNumber": "3",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-05-15",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "8",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Progressive%20%26%20Psytrance%20Pieces,%20Vol.%2014/03%20We%20Are%20Humans.m4a",
+        "Remixer": "",
+        "Tonality": "Em",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.048",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "41.787",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "69.613",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "97.439",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "292.221",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "351.352",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "379.178",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "407.004",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6415": {
+      "$": {
+        "TrackID": "6415",
+        "Name": "3d Visions",
+        "Artist": "Shogan & Ascent",
+        "Composer": "",
+        "Album": "3d Visions - Single",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "15060873",
+        "TotalTime": "440",
+        "DiscNumber": "1",
+        "TrackNumber": "1",
+        "Year": "2016",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-05-21",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "7",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Shogan/3d%20Visions%20-%20Single/01%203d%20Visions.m4a",
+        "Remixer": "",
+        "Tonality": "Ebm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.049",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "27.875",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.701",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "83.527",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "278.310",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "306.136",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "337.440",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "393.092",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6565": {
+      "$": {
+        "TrackID": "6565",
+        "Name": "Acidbro",
+        "Artist": "Darma & Ace Ventura",
+        "Composer": "Adam Belo & Yhonathan Oshrat",
+        "Album": "Dejavoo - Single",
+        "Grouping": "",
+        "Genre": "Techno",
+        "Kind": "M4A File",
+        "Size": "16783068",
+        "TotalTime": "461",
+        "DiscNumber": "1",
+        "TrackNumber": "1",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-06-03",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "8",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Darma/Dejavoo%20-%20Single/01%20Acidbro.m4a",
+        "Remixer": "",
+        "Tonality": "Fm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.049",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.701",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "83.527",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "111.354",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "139.180",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "368.745",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "396.571",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "424.397",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6623": {
+      "$": {
+        "TrackID": "6623",
+        "Name": "Nuclear Medicine (Original Mix)",
+        "Artist": "Space Cat, Volcano",
+        "Composer": "",
+        "Album": "Nuclear Medicine",
+        "Grouping": "",
+        "Genre": "Psy-Trance",
+        "Kind": "MP3 File",
+        "Size": "18012717",
+        "TotalTime": "445",
+        "DiscNumber": "0",
+        "TrackNumber": "2",
+        "Year": "2016",
+        "AverageBpm": "142.00",
+        "DateAdded": "2016-06-08",
+        "BitRate": "320",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "10",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Space%20Cat,%20Volcano/Nuclear%20Medicine/02%20Nuclear%20Medicine%20(Original%20Mix).mp3",
+        "Remixer": "",
+        "Tonality": "Bm",
+        "Label": "HOMmega Productions",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.051",
+            "Bpm": "142.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "54.136",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "108.220",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "135.262",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "277.234",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "304.277",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "358.361",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "385.404",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "412.446",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6812": {
+      "$": {
+        "TrackID": "6812",
+        "Name": "Juicy (Original Mix)",
+        "Artist": "Roger Rabbit",
+        "Composer": "Roger Rabbit",
+        "Album": "Private Selection - Compiled By Audio Control & DNA",
+        "Grouping": "",
+        "Genre": "Dance",
+        "Kind": "M4A File",
+        "Size": "14481418",
+        "TotalTime": "423",
+        "DiscNumber": "1",
+        "TrackNumber": "3",
+        "Year": "2012",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-06-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "12",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/2nd%20Set/18%20Juicy%20(Original%20Mix).m4a",
+        "Remixer": "",
+        "Tonality": "Fm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.049",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.701",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "97.440",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "125.266",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "184.397",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "292.223",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "347.875",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "389.614",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6955": {
+      "$": {
+        "TrackID": "6955",
+        "Name": "The Plant Spirit",
+        "Artist": "Tristate & Aioaska",
+        "Composer": "Georg Hampl, Markus Hoetschl & Andreas Lehner",
+        "Album": "Progressiv Equation (Reloaded)",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "16128353",
+        "TotalTime": "469",
+        "DiscNumber": "1",
+        "TrackNumber": "1",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-06-18",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "6",
+        "Rating": "255",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/%c2%a1TILT!/Progressiv%20Equation%20(Reloaded)/01%20The%20Plant%20Spirit.m4a",
+        "Remixer": "",
+        "Tonality": "Abm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.201",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "69.766",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "125.418",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "167.157",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "375.853",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "403.679",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "431.505",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6958": {
+      "$": {
+        "TrackID": "6958",
+        "Name": "Ianai",
+        "Artist": "Aho",
+        "Composer": "Daniel Gonzalo Carcur Arredondo",
+        "Album": "Progressiv Equation (Reloaded)",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "15391517",
+        "TotalTime": "450",
+        "DiscNumber": "1",
+        "TrackNumber": "2",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-06-18",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "4",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/%c2%a1TILT!/Progressiv%20Equation%20(Reloaded)/02%20Ianai.m4a",
+        "Remixer": "",
+        "Tonality": "Abm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.159",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.811",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "125.376",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "181.028",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "243.636",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "299.289",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "382.767",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "410.593",
+            "Num": "-1"
+          }
+        }
+      ]
+    }
+  },
+  "playlist": [
+    "6322",
+    "6415",
+    "6565",
+    "6623",
+    "6812",
+    "6955",
+    "6958"
+  ]
+}

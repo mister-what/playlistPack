@@ -1,0 +1,695 @@
+{
+  "name": "modules.offbeat.straight",
+  "id": "module_modules.offbeat.straight_B1gdR8Ix0g",
+  "modules": {},
+  "tracks": {
+    "5628": {
+      "$": {
+        "TrackID": "5628",
+        "Name": "Rainfall (Symphonix Remix)",
+        "Artist": "Metronome",
+        "Composer": "Henrik Nilsson",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "14114462",
+        "TotalTime": "413",
+        "DiscNumber": "1",
+        "TrackNumber": "34",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "5",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/34%20Rainfall%20(Symphonix%20Remix).m4a",
+        "Remixer": "",
+        "Tonality": "F#m",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.268",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "62.876",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "118.528",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "146.354",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "264.615",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "292.441",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "348.093",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "375.919",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "5852": {
+      "$": {
+        "TrackID": "5852",
+        "Name": "Zebra Beat (Symphonix Remix)",
+        "Artist": "Ticon",
+        "Composer": "Filip Mårdberg & Fredrik Gilenholt",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "13666800",
+        "TotalTime": "389",
+        "DiscNumber": "1",
+        "TrackNumber": "22",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "5",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/22%20Zebra%20Beat%20(Symphonix%20Remix).m4a",
+        "Remixer": "",
+        "Tonality": "Fm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.243",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "2"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "69.373",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "97.199",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "125.026",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "257.199",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "305.895",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "347.634",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "5853": {
+      "$": {
+        "TrackID": "5853",
+        "Name": "Popular Design",
+        "Artist": "Symphonix, DJ Fabio & Moon",
+        "Composer": "Sirko Wötanowski, Stephan Wötanowski, Fabio Fusco & Benni Glowatzki",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Progressice Psytrance",
+        "Kind": "M4A File",
+        "Size": "16819940",
+        "TotalTime": "493",
+        "DiscNumber": "1",
+        "TrackNumber": "49",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "3",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/49%20Popular%20Design.m4a",
+        "Remixer": "",
+        "Tonality": "Abm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.048",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "62.657",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "83.526",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "111.352",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "139.179",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "194.831",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "347.874",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "375.701",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "403.527",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "431.353",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "481.788",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "5882": {
+      "$": {
+        "TrackID": "5882",
+        "Name": "Time of Punk",
+        "Artist": "Symphonix",
+        "Composer": "Sirko Wötanowski & Stephan Wötanowski",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "13705408",
+        "TotalTime": "399",
+        "DiscNumber": "1",
+        "TrackNumber": "19",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "1",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/19%20Time%20of%20Punk.m4a",
+        "Remixer": "",
+        "Tonality": "Bm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.047",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.699",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "111.352",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "139.178",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "222.656",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "306.134",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "333.961",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "5883": {
+      "$": {
+        "TrackID": "5883",
+        "Name": "Music Prostitute (Osher Remix)",
+        "Artist": "Symphonix",
+        "Composer": "Sirko Wötanowski & Stephan Wötanowski",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "19385803",
+        "TotalTime": "565",
+        "DiscNumber": "1",
+        "TrackNumber": "18",
+        "Year": "2015",
+        "AverageBpm": "137.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "2",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/18%20Music%20Prostitute%20(Osher%20Remix).m4a",
+        "Remixer": "",
+        "Tonality": "Bm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.049",
+            "Bpm": "137.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "70.122",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "98.151",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "126.180",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "154.209",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "423.990",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "501.070",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "5895": {
+      "$": {
+        "TrackID": "5895",
+        "Name": "Marshmallows (Symphonix Remix)",
+        "Artist": "Captain Hook & Freedom Fighters",
+        "Composer": "Reshef Harari & Shahaf Efrat",
+        "Album": "Symphonix Blue Box",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "15877347",
+        "TotalTime": "459",
+        "DiscNumber": "1",
+        "TrackNumber": "4",
+        "Year": "2015",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-03-13",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "3",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Compilations/Symphonix%20Blue%20Box/04%20Marshmallows%20(Symphonix%20Remix).m4a",
+        "Remixer": "",
+        "Tonality": "Fm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.049",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.701",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "83.527",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "139.179",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "194.831",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "264.396",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "292.222",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "347.874",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "403.526",
+            "Num": "-1"
+          }
+        }
+      ]
+    },
+    "6066": {
+      "$": {
+        "TrackID": "6066",
+        "Name": "Earthcore",
+        "Artist": "Polaris",
+        "Composer": "",
+        "Album": "Stabilizer - Single",
+        "Grouping": "",
+        "Genre": "Trance",
+        "Kind": "M4A File",
+        "Size": "14668088",
+        "TotalTime": "426",
+        "DiscNumber": "1",
+        "TrackNumber": "1",
+        "Year": "2013",
+        "AverageBpm": "138.00",
+        "DateAdded": "2016-04-04",
+        "BitRate": "256",
+        "SampleRate": "44100",
+        "Comments": "grid",
+        "PlayCount": "16",
+        "Rating": "0",
+        "Location": "file://localhost/Users/jonaswinzen/Music/iTunes/iTunes%20Media/Music/Polaris/Stabilizer%20-%20Single/01%20Earthcore.m4a",
+        "Remixer": "",
+        "Tonality": "Dm",
+        "Label": "",
+        "Mix": ""
+      },
+      "TEMPO": [
+        {
+          "$": {
+            "Inizio": "0.157",
+            "Bpm": "138.00",
+            "Metro": "4/4",
+            "Battito": "1"
+          }
+        }
+      ],
+      "POSITION_MARK": [
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "55.809",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "111.462",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "167.114",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "278.418",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "334.071",
+            "Num": "-1"
+          }
+        },
+        {
+          "$": {
+            "Name": "",
+            "Type": "0",
+            "Start": "347.984",
+            "Num": "-1"
+          }
+        }
+      ]
+    }
+  },
+  "playlist": [
+    "5628",
+    "5852",
+    "5853",
+    "5882",
+    "5883",
+    "5895",
+    "6066"
+  ]
+}
