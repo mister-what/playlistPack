@@ -26,5 +26,11 @@
   "dependencies": {
     "shortid": "^2.2.8",
     "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "@types/node": "~6.0.60",
+    "ts-node": "~2.0.0",
+    "tslint": "~4.5.0",
+    "typescript": "~2.2.0"
   }
 }
